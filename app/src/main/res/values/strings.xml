@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">ContinenteApp</string>
+    <string name="lblContinente">Continente:</string>
+    <string name="btn_busca">Buscar</string>
+    <string name="buscar_paises_continente">Buscar Países</string>
+    <string name="text_spinner_continentes">Seleiconar um continente:</string>
+    <string name="txt_nome">Nome:</string>
+    <string name="txt_capital">Capital: </string>
+    <string name="txt_regiao">Região:</string>
+    <string-array name="continentes">
+        <item>Todos</item>
+        <item>Africa</item>
+        <item>Americas</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Oceania</item>
+    </string-array>
+
+</resources>
